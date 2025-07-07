@@ -1,5 +1,6 @@
 site_name: Genomics for Data Analysts
 theme: material
+custom_dir: overrides
 features:
     - navigation.footer
 
@@ -32,4 +33,3 @@ markdown_extensions:
 
 extra_css:
   - styles/glossary.css
- 

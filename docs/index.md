@@ -1,9 +1,9 @@
 <div class="sticky-glossary">
 
-**Glossary**
-- **FASTQ** — Text format of raw sequencing reads \
-- **BAM** — Binary Alignment Map \
-- **VCF** — Variant Call Format
+**Glossary**<br>
+- **FASTQ** — Text format of raw sequencing reads<br>
+- **BAM** — Binary Alignment Map<br>
+- **VCF** — Variant Call Format<br>
 
 </div>
 
