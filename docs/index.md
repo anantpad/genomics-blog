@@ -1,11 +1,6 @@
-<div class="sticky-glossary">
+<div style="display: flex; gap: 2rem; align-items: flex-start;">
 
-**Glossary** \
-- **FASTQ** — Text format of raw sequencing reads \
-- **BAM** — Binary Alignment Map \
-- **VCF** — Variant Call Format \
-
-</div>
+<div style="flex: 3;">
 
 # Data at the heart of modern Genomics
 ## Introduction
@@ -16,3 +11,13 @@ These were some of the questions I struggled with which made it difficult to und
 Well sadly no. Understanding the biological domain is necessary to make meaningful headway into the data, its interpretation, and the insights you draw. This struggle motivated me to dig deeper, simplify the domain and write up on cell biology for the engineer.
 
 [Next →](patient-to-data.md)
+</div>
+
+    <div class="glossary-sidebar">
+        <strong>>Glossary</srtrong><br>
+        <b>FASTQ<b> — Text format of raw sequencing reads<br>
+        <b>BAM<b> — Binary Alignment Map<br>
+        <b>VCF<b> — Variant Call Format<br>
+    </div>
+
+</div>
