@@ -1,10 +1,3 @@
-<div class="sticky-glossary">
-
-**Glossary** \
-- 
-
-</div>
-
 Usually, after the Histopathology report, the gastroenterologist determines if DNA/RNA sequencing is required. 
 
 #### Sectioning for molecular analysis

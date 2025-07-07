@@ -1,7 +1,8 @@
 <div class="sticky-glossary">
 
-**Glossary** \
-- **FFPE** - Formalin-Fixed Paraffin-Embedded \
+**Glossary**
+
+- **FFPE** - Formalin-Fixed Paraffin-Embedded
 
 </div>
 
