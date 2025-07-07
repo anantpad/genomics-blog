@@ -1,0 +1,35 @@
+site_name: Genomics for Data Analysts
+theme: material
+features:
+    - navigation.footer
+
+nav:
+  - Home: index.md
+  - From Patient to Data: patient-to-data.md
+  - At the Histopath Lab: at-histopath.md
+  - At the Molecular Lab: at-molecular-lab.md
+  - End Note: end-note.md
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+      type: date
+      locale: en
+      timezone: US/Pacific
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-github
+  copyright:
+    Text © 2025 Sridhar Ramachandran
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - styles/glossary.css
+ 
