@@ -1,8 +1,8 @@
 <div class="sticky-glossary">
 
-**Glossary** \
-- **CPT** - Current Procedural Terminology codes maintained by the American Medical Association (AMA) \
-- **EMR** - Electronic Medical Record \
+**Glossary**<br>
+- **CPT** - Current Procedural Terminology codes maintained by the American Medical Association (AMA)<br>
+- **EMR** - Electronic Medical Record<br>
 
 </div>
 

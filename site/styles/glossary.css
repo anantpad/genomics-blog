@@ -1,0 +1,8 @@
+.sticky-glossary {
+  position: sticky;
+  top: 0;
+  background-color: #fdfdfd;
+  padding: 1em;
+  border-bottom: 1px solid #ccc;
+  z-index: 100;
+}
